@@ -1,8 +1,6 @@
 <h1 align="center">Hey Iam Sanika Dahiwal</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working on **Income-tax Calculator**
-
 - 💬 Ask me about **Javascript , Node.js ,react ,mongoDB**
 
 - 📫 How to reach me **sanikadahiwal03@gmail.com**
