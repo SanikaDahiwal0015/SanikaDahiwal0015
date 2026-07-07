@@ -6,10 +6,9 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🌟 About Me
+
 - 🎓 Electronics & Telecommunication Engineering Student
 - 🌍 Active Open Source Contributor
 - 💻 MERN Stack Developer
