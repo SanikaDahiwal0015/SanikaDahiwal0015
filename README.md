@@ -18,19 +18,6 @@
 - 📚 Lifelong Learner
 
 
-## 🧠 My Focus Areas
-- 🌐 Full Stack Web Development (MERN)
-- 🌍 Open Source Contributions
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Structures & Algorithms
-- ⚙️ Backend Development & REST APIs
-- 🎨 Frontend Development & UI/UX
-- 🚀 Hackathons & Innovation Challenges
-- 💡 Product Development & Startup Innovation
-- ☁️ Cloud & DevOps (Currently Learning)
-- 📈 Continuous Learning & Technical Growth
-
-
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/SanikaDahiwal0015">
